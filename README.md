@@ -47,4 +47,6 @@ This guide can be used for a variety of projects. I will use and update it for m
    - Send the prompt to the AI and copy the generated HTML script to an `.html` file.
    - Open the HTML file in a web browser to see the result.
 
+![result](htmlresult.jpg)
+
 The final result is accessible from [this repository](https://github.com/karrabi/RemoveBackground).
