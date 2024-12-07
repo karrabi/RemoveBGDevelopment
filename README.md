@@ -1,6 +1,6 @@
 # RemoveBGDevelopment
 
-## Development Steps for the "Remove Background" Project
+## How to Develop an AI project in 20 minutes - Remove images background
 
 The final result is accessible from [this repository](https://github.com/karrabi/RemoveBackground).
 
